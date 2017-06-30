@@ -5,14 +5,14 @@
 <head>
 	<meta charset="EUC-KR">
 	<title>Insert title here</title>
-	<link rel="stylesheet" type="text/css" href="css/test.css">
+	<link rel="stylesheet" media="all" href="css/test.css"/>
 </head>
 <body>
 	<div id="wrap">
 	
 		<div class="site-heder">
 			<div class="hgroup">
-				<h1>헤더</h1>
+				<h1><a href="#">헤더</a></h1>
 				<h2>헤더</h2>
 			</div>
 			<div class="nav">
@@ -33,7 +33,7 @@
 		</div>
 		
 		<div class="site-com">
-			<h3>내용</h3>
+			<h3><a href="#">내용</a></h3>
 		</div>
 		
 		<div class="site-footer">

@@ -1,0 +1,112 @@
+table.type04 {
+	display: none;
+    border-collapse: separate;
+    border-spacing: 1px;
+    text-align: left;
+    line-height: 1.5;
+    border-top: 1px solid #ccc;
+  margin : 20px 10px;
+}
+table.type04 th {
+    width: 150px;
+    padding: 10px;
+    font-weight: bold;
+    vertical-align: top;
+    border-bottom: 1px solid #ccc;
+}
+table.type04 td {
+    width: 350px;
+    padding: 10px;
+    vertical-align: top;
+    border-bottom: 1px solid #ccc;
+}
+
+
+table.jjm494 {
+	display: none;
+    border-collapse: separate;
+    border-spacing: 1px;
+    text-align: left;
+    line-height: 1.5;
+    border-top: 1px solid #ccc;
+  margin : 20px 10px;
+}
+table.jjm494 th {
+    width: 150px;
+    padding: 10px;
+    font-weight: bold;
+    vertical-align: top;
+    border-bottom: 1px solid #ccc;
+}
+table.jjm494 td {
+    width: 350px;
+    padding: 10px;
+    vertical-align: top;
+    border-bottom: 1px solid #ccc;
+}
+
+
+table.profile {
+	display: none;
+    border-collapse: separate;
+    border-spacing: 1px;
+    text-align: left;
+    line-height: 1.5;
+    border-top: 1px solid #ccc;
+  margin : 20px 10px;
+}
+table.profile th {
+    width: 150px;
+    padding: 10px;
+    font-weight: bold;
+    vertical-align: top;
+    border-bottom: 1px solid #ccc;
+}
+table.profile td {
+    width: 350px;
+    padding: 10px;
+    vertical-align: top;
+    border-bottom: 1px solid #ccc;
+}
+
+
+
+
+
+.test a{
+}
+.profile a{
+}
+
+#quick {
+	width: 100px;
+	position: absolute;
+	right: 20px;
+	top: 90%;
+	height: 50px;
+	background: #dae3c6;
+	z-index: 2;
+	border:1px solid #000;
+}
+
+
+.ttt div{
+	margin-top:-10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
